@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Old Standard TT";
+  src: url("../fonts/OldStandard-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Old Standard TT";
+  src: url("../fonts/OldStandard-Italic.woff") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Old Standard TT";
+  src: url("../fonts/OldStandard-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
