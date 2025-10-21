@@ -7,21 +7,31 @@ html {
 body {
   width: 1440px;
   display: block;
-  margin: o auto;
+  margin: 0 auto;
   font-family: "Old Standard TT";
   position: relative;
   display: flex;
 }
-body::after {
+/* body::after {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
-  /* background-image: url("../images/maket.svg"); */
+  background-image: url("../images/шум.svg");
+  width: 1440px;
+  height: 12971px;
+  opacity: 0.03;
+} */
+/* body::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("../images/maket.svg"); 
   width: 1440px;
   height: 12971px;
   opacity: 0.4;
-}
+} */
 .section-1 {
   width: 1440px;
   height: 999px;
@@ -1661,36 +1671,46 @@ body::after {
 .aboutauthor {
   font-weight: 400;
   font-size: 30px;
-  position: absolute;
+  /* position: absolute;
   top: 12862px;
-  left: 101px;
+  left: 101px; */
   font-style: normal;
   color: #d4d4d4;
 }
 .aboutauthor2 {
   font-weight: 400;
   font-size: 30px;
-  position: absolute;
+  /* position: absolute;
   top: 12862px;
-  left: 396px;
+  left: 396px; */
   font-style: normal;
   color: #d4d4d4;
 }
 .aboutauthor3 {
   font-weight: 400;
   font-size: 30px;
-  position: absolute;
+  /* position: absolute;
   top: 12862px;
-  left: 656px;
+  left: 656px; */
   font-style: normal;
   color: #d4d4d4;
 }
 .aboutauthor4 {
   font-weight: 400;
   font-size: 30px;
-  position: absolute;
+  /* position: absolute;
   top: 12862px;
-  left: 1118px;
+  left: 1118px; */
   font-style: normal;
   color: #d4d4d4;
+}
+footer {
+  display: flex;
+  border: 6px solid white;
+  position: absolute;
+  top: 12862px;
+  width: 1360px;
+  margin-left: 40px;
+  padding: 40px 40px;
+  justify-content: space-between;
 }
