@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 html {
-  background: #000000;
+  background: #000000e9;
 }
 body {
   width: 1440px;
@@ -12,26 +12,17 @@ body {
   position: relative;
   display: flex;
 }
-/* body::after {
+
+body::after {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url("../images/шум.svg");
-  width: 1440px;
-  height: 12971px;
-  opacity: 0.03;
-} */
-/* body::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-image: url("../images/maket.svg"); 
+  background-image: url("../images/maket.svg");
   width: 1440px;
   height: 12971px;
   opacity: 0.4;
-} */
+}
 .section-1 {
   width: 1440px;
   height: 999px;
@@ -166,6 +157,13 @@ body {
   margin-left: 973px;
 }
 
+/* секция 2 */
+
+.section-2 {
+  width: 1440px;
+  height: 1069px;
+  justify-content: space-between;
+}
 .candle1 {
   position: absolute;
   width: 142px;
@@ -291,6 +289,12 @@ body {
 
 /* 3 секция */
 
+.section-3 {
+  width: 1440px;
+  height: 1173px;
+  justify-content: space-between;
+}
+
 .backgroundfortheempress {
   position: absolute;
   width: 1915px;
@@ -383,9 +387,6 @@ body {
 .section-4 {
   width: 1440px;
   height: 1145px;
-  margin-left: 0px;
-  margin-top: 0px;
-  margin: 0 auto;
   justify-content: space-between;
 }
 .booklet {
@@ -908,6 +909,11 @@ body {
 
 /* секция 5 */
 
+.section-5 {
+  width: 1440px;
+  height: 1102px;
+  justify-content: space-between;
+}
 .headinglines5 {
   position: absolute;
   width: 324px;
@@ -1012,9 +1018,6 @@ body {
 .section-6 {
   width: 1440px;
   height: 1672.96px;
-  margin-left: 0px;
-  margin-top: 0px;
-  margin: 0 auto;
   justify-content: space-between;
 }
 .lanternbiglight {
@@ -1078,9 +1081,6 @@ body {
 .section-7 {
   width: 1440px;
   height: 2026px;
-  margin-left: 0px;
-  margin-top: 0px;
-  margin: 0 auto;
   justify-content: space-between;
 }
 .scenery {
@@ -1170,6 +1170,11 @@ body {
 
 /* 8 секция */
 
+.section-8 {
+  width: 1440px;
+  height: 1653px;
+  justify-content: space-between;
+}
 .centretext {
   text-align: center;
   font-weight: 400;
@@ -1546,6 +1551,11 @@ body {
 
 /* 9 секция */
 
+.section-9 {
+  width: 1440px;
+  height: 966px;
+  justify-content: space-between;
+}
 .fan {
   position: absolute;
   top: 10651px;
@@ -1644,25 +1654,27 @@ body {
 
 /* секция 10 */
 
-.endlines2 {
+.section-10 {
+  width: 1440px;
+  height: 1411.49px;
+  justify-content: space-between;
+}
+.tickets2 {
   position: absolute;
-  top: 11630px;
-  left: 39px;
+  top: 11526px;
+  left: -75px;
 }
 .endfont {
   font-weight: 700;
   font-size: 30px;
   position: absolute;
-  top: 11645px;
-  left: 38px;
+  top: 11647;
+  left: 39;
   font-style: normal;
   color: #d4d4d4;
 }
-.tickets {
-  position: absolute;
-  top: 11527px;
-  left: -74px;
-}
+
+/* подвал */
 .endinformation {
   position: absolute;
   top: 12820px;
