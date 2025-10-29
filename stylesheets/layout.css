@@ -33,21 +33,19 @@ body::after {
 }
 .spotlight {
   position: absolute;
-  width: 1470.98px;
   height: 982.49px;
   top: 0px;
-  left: -60px;
+  left: 75px;
 }
 .curtain {
   position: absolute;
-  margin-left: -5px;
+  margin-left: 0px;
   margin-top: 0px;
-  width: 253px;
   height: 820px;
 }
 .curtain2 {
   position: absolute;
-  margin-left: 1217px;
+  margin-left: 1218px;
   width: 228px;
   height: 820px;
 }
@@ -291,21 +289,27 @@ body::after {
 
 .backgroundfortheempress {
   position: absolute;
-  width: 1915px;
-  height: 1781.83px;
-  top: 1760px;
-  left: -30px;
+  width: 1440px;
+  height: 1298px;
+  top: 1940px;
+  left: 60px;
+}
+.darkness2 {
+  position: absolute;
+
+  top: 1975px;
+  left: 0px;
 }
 .theempress {
   position: absolute;
   width: 921.5px;
   height: 805.78px;
-  top: 2059px;
+  top: 2049px;
   left: 518px;
 }
 .empress1 {
   position: absolute;
-  top: 2345px;
+  top: 2335px;
   left: 517px;
 }
 .headinglines {
@@ -1025,8 +1029,6 @@ body::after {
   left: 190px;
 }
 .fontlanternkomposition {
-  width: 1516.19;
-  height: 1863.01;
   position: absolute;
   top: 5290px;
   left: 15px;
@@ -1660,8 +1662,8 @@ body::after {
 }
 .tickets2 {
   position: absolute;
-  top: 11526px;
-  left: -75px;
+  top: 11532px;
+  left: 0px;
 }
 .fontsupports {
   font-weight: 700;
