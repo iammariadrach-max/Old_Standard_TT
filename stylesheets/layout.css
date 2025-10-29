@@ -10,6 +10,7 @@ body {
   margin: 0 auto;
   font-family: "Old Standard TT";
   position: relative;
+  display: flex;
 }
 
 body::after {
@@ -44,7 +45,7 @@ body::after {
 }
 .curtain2 {
   position: absolute;
-  margin-left: 1218px;
+  margin-left: 1212px;
   width: 228px;
   height: 820px;
 }
@@ -178,6 +179,7 @@ body::after {
 }
 .shadow2 {
   position: absolute;
+  width: 389px;
   top: 1248px;
   left: 890px;
 }
@@ -289,9 +291,9 @@ body::after {
 .backgroundfortheempress {
   position: absolute;
   width: 1440px;
-  height: 1298px;
-  top: 1940px;
-  left: 60px;
+  height: 1051.37px;
+  top: 2020px;
+  left: 0px;
 }
 .darkness2 {
   position: absolute;
@@ -1024,13 +1026,13 @@ body::after {
 }
 .lanternbiglight {
   position: absolute;
-  top: 5645px;
+  top: 5640px;
   left: 190px;
 }
 .fontlanternkomposition {
   position: absolute;
-  top: 5290px;
-  left: 15px;
+  top: 5570px;
+  left: 93px;
 }
 .lanternsmalllight {
   position: absolute;
@@ -1086,7 +1088,7 @@ body::after {
 .scenery {
   position: absolute;
   top: 6929px;
-  left: -7px;
+  left: 0px;
 }
 .penultimatelines {
   position: absolute;
