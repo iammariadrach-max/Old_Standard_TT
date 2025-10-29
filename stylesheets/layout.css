@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 html {
-  background: #000000e9;
+  background: #000000;
 }
 body {
   width: 1440px;
@@ -18,10 +18,10 @@ body::after {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url("../images/maket.svg");
+  background-image: url("../images/шум.svg");
   width: 1440px;
   height: 12971px;
-  opacity: 0.4;
+  opacity: 0.055;
 }
 .section-1 {
   width: 1440px;
@@ -181,8 +181,6 @@ body::after {
 }
 .shadow2 {
   position: absolute;
-  width: 489px;
-  height: 439px;
   top: 1248px;
   left: 890px;
 }
@@ -203,8 +201,6 @@ body::after {
 }
 .darkness {
   position: absolute;
-  width: 1500px;
-  height: 1500px;
   top: 660px;
   left: 250px;
 }
@@ -240,9 +236,7 @@ body::after {
 }
 .shadow {
   position: absolute;
-  width: 700px;
-  height: 1250px;
-  top: 900px;
+  top: 930px;
   left: 510px;
 }
 
@@ -260,7 +254,7 @@ body::after {
   margin-top: 1720px;
   left: 458px;
   font-style: italic;
-  color: #d4d4d4;
+  color: #d3d3d3;
   line-height: 36px;
 }
 .doll1 {
@@ -308,6 +302,11 @@ body::after {
   height: 805.78px;
   top: 2059px;
   left: 518px;
+}
+.empress1 {
+  position: absolute;
+  top: 2345px;
+  left: 517px;
 }
 .headinglines {
   position: absolute;
@@ -431,7 +430,7 @@ body::after {
   top: 3231px;
   left: 164px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .postertext {
   font-weight: 700;
@@ -440,7 +439,7 @@ body::after {
   top: 3231px;
   left: 635px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .actorstext {
   font-weight: 700;
@@ -449,7 +448,7 @@ body::after {
   top: 3231px;
   left: 1078px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .typedtextabouttheatre {
   font-weight: 700;
@@ -458,7 +457,7 @@ body::after {
   top: 3373px;
   left: 77px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
   line-height: 25.5px;
 }
 .typedtextaboutfont {
@@ -468,7 +467,7 @@ body::after {
   top: 3608px;
   left: 101px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
   line-height: 25.5px;
 }
 .typedtextaboutfont2 {
@@ -478,7 +477,7 @@ body::after {
   top: 3608px;
   left: 997px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
   line-height: 25.5px;
 }
 .typedtextactors {
@@ -488,7 +487,7 @@ body::after {
   top: 3808px;
   left: 978px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
   line-height: 26px;
 }
 .typedtextactors2 {
@@ -498,7 +497,7 @@ body::after {
   top: 3990px;
   left: 978px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
   line-height: 28px;
 }
 .october {
@@ -508,7 +507,7 @@ body::after {
   top: 3390px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number {
   font-weight: 400;
@@ -517,7 +516,7 @@ body::after {
   top: 3390px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name {
   font-weight: 400;
@@ -526,7 +525,7 @@ body::after {
   top: 3390px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october2 {
   font-weight: 400;
@@ -535,7 +534,7 @@ body::after {
   top: 3449px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number2 {
   font-weight: 400;
@@ -544,7 +543,7 @@ body::after {
   top: 3449px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name2 {
   font-weight: 400;
@@ -553,7 +552,7 @@ body::after {
   top: 3449px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october3 {
   font-weight: 400;
@@ -562,7 +561,7 @@ body::after {
   top: 3510px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number3 {
   font-weight: 400;
@@ -571,7 +570,7 @@ body::after {
   top: 3510px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name3 {
   font-weight: 400;
@@ -580,7 +579,7 @@ body::after {
   top: 3510px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october4 {
   font-weight: 400;
@@ -589,7 +588,7 @@ body::after {
   top: 3570px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number4 {
   font-weight: 400;
@@ -598,7 +597,7 @@ body::after {
   top: 3570px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name4 {
   font-weight: 400;
@@ -607,7 +606,7 @@ body::after {
   top: 3570px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october5 {
   font-weight: 400;
@@ -616,7 +615,7 @@ body::after {
   top: 3630px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number5 {
   font-weight: 400;
@@ -625,7 +624,7 @@ body::after {
   top: 3630px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name5 {
   font-weight: 400;
@@ -634,7 +633,7 @@ body::after {
   top: 3630px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october6 {
   font-weight: 400;
@@ -643,7 +642,7 @@ body::after {
   top: 3690px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number6 {
   font-weight: 400;
@@ -652,7 +651,7 @@ body::after {
   top: 3690px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name6 {
   font-weight: 400;
@@ -661,7 +660,7 @@ body::after {
   top: 3690px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october7 {
   font-weight: 400;
@@ -670,7 +669,7 @@ body::after {
   top: 3750px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number7 {
   font-weight: 400;
@@ -679,7 +678,7 @@ body::after {
   top: 3750px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name7 {
   font-weight: 400;
@@ -688,7 +687,7 @@ body::after {
   top: 3750px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october8 {
   font-weight: 400;
@@ -697,7 +696,7 @@ body::after {
   top: 3810px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number8 {
   font-weight: 400;
@@ -706,7 +705,7 @@ body::after {
   top: 3810px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name8 {
   font-weight: 400;
@@ -715,7 +714,7 @@ body::after {
   top: 3810px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october9 {
   font-weight: 400;
@@ -724,7 +723,7 @@ body::after {
   top: 3870px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number9 {
   font-weight: 400;
@@ -733,7 +732,7 @@ body::after {
   top: 3870px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name9 {
   font-weight: 400;
@@ -742,7 +741,7 @@ body::after {
   top: 3870px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october10 {
   font-weight: 400;
@@ -751,7 +750,7 @@ body::after {
   top: 3930px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number10 {
   font-weight: 400;
@@ -760,7 +759,7 @@ body::after {
   top: 3930px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name10 {
   font-weight: 400;
@@ -769,7 +768,7 @@ body::after {
   top: 3930px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october11 {
   font-weight: 400;
@@ -778,7 +777,7 @@ body::after {
   top: 3990px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number11 {
   font-weight: 400;
@@ -787,7 +786,7 @@ body::after {
   top: 3990px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name11 {
   font-weight: 400;
@@ -796,7 +795,7 @@ body::after {
   top: 3990px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october12 {
   font-weight: 400;
@@ -805,7 +804,7 @@ body::after {
   top: 4050px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number12 {
   font-weight: 400;
@@ -814,7 +813,7 @@ body::after {
   top: 4050px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name12 {
   font-weight: 400;
@@ -823,7 +822,7 @@ body::after {
   top: 4050px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october13 {
   font-weight: 400;
@@ -832,7 +831,7 @@ body::after {
   top: 4110px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number13 {
   font-weight: 400;
@@ -841,7 +840,7 @@ body::after {
   top: 4110px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name13 {
   font-weight: 400;
@@ -850,7 +849,7 @@ body::after {
   top: 4110px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october14 {
   font-weight: 400;
@@ -859,7 +858,7 @@ body::after {
   top: 4170px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number14 {
   font-weight: 400;
@@ -868,7 +867,7 @@ body::after {
   top: 4170px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name14 {
   font-weight: 400;
@@ -877,7 +876,7 @@ body::after {
   top: 4170px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .october15 {
   font-weight: 400;
@@ -886,7 +885,7 @@ body::after {
   top: 4230px;
   left: 516px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .number15 {
   font-weight: 400;
@@ -895,7 +894,7 @@ body::after {
   top: 4230px;
   left: 639px;
   font-style: italic;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 .name15 {
   font-weight: 400;
@@ -904,7 +903,7 @@ body::after {
   top: 4230px;
   left: 720px;
   font-style: normal;
-  color: #d9d9d9;
+  color: #d4d4d4;
 }
 
 /* секция 5 */
@@ -1022,8 +1021,8 @@ body::after {
 }
 .lanternbiglight {
   position: absolute;
-  top: 5570px;
-  left: 100px;
+  top: 5645px;
+  left: 190px;
 }
 .fontlanternkomposition {
   width: 1516.19;
@@ -1664,14 +1663,426 @@ body::after {
   top: 11526px;
   left: -75px;
 }
-.endfont {
+.fontsupports {
   font-weight: 700;
   font-size: 30px;
   position: absolute;
-  top: 11647;
-  left: 39;
+  top: 11644px;
+  left: 38px;
   font-style: normal;
   color: #d4d4d4;
+}
+.fontsupportslines {
+  position: absolute;
+  top: 11629px;
+  left: 39px;
+}
+/* 1 билет */
+.ticketnumber {
+  font-weight: 500;
+  font-size: 23.4px;
+  position: absolute;
+  top: 11866px;
+  left: 118px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-14.92deg);
+}
+.time {
+  font-weight: 700;
+  font-size: 24.68px;
+  position: absolute;
+  top: 11892px;
+  left: 127px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-15.9deg);
+}
+.performance {
+  font-weight: 400;
+  font-size: 30.6px;
+  position: absolute;
+  top: 11926px;
+  left: 133px;
+  font-style: italic;
+  color: #000000;
+  transform: rotate(-15.07deg);
+}
+.stall {
+  font-weight: 700;
+  font-size: 64.8px;
+  position: absolute;
+  top: 11975px;
+  left: 153px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-15.07deg);
+}
+.cost {
+  font-weight: 400;
+  font-size: 31.91px;
+  position: absolute;
+  top: 11823px;
+  left: 448px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-14.94deg);
+}
+/* 2 билет */
+.ticketnumber2 {
+  font-weight: 400;
+  font-size: 22px;
+  position: absolute;
+  top: 11891px;
+  left: 558px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(25.73deg);
+}
+.time2 {
+  font-weight: 700;
+  font-size: 23.2px;
+  position: absolute;
+  top: 11923px;
+  left: 544px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(24.74deg);
+}
+.performance2 {
+  font-weight: 400;
+  font-size: 28.77px;
+  position: absolute;
+  top: 11968px;
+  left: 519px;
+  font-style: italic;
+  color: #000000;
+  transform: rotate(25.57deg);
+}
+.stall2 {
+  font-weight: 700;
+  font-size: 60.92px;
+  position: absolute;
+  top: 12038px;
+  left: 483px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(25.57deg);
+}
+.cost2 {
+  font-weight: 400;
+  font-size: 30px;
+  position: absolute;
+  top: 12059px;
+  left: 799px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(25.7deg);
+}
+.row {
+  font-weight: 700;
+  font-size: 30px;
+  position: absolute;
+  top: 12158px;
+  left: 719px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(24.89deg);
+}
+/* 3 билет */
+
+.ticketnumber3 {
+  font-weight: 400;
+  font-size: 26.18px;
+  position: absolute;
+  top: 11703px;
+  left: 893px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(52.91deg);
+}
+.time3 {
+  font-weight: 700;
+  font-size: 27.61px;
+  position: absolute;
+  top: 11721px;
+  left: 867px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(51.93deg);
+}
+.performance3 {
+  font-weight: 400;
+  font-size: 34.24px;
+  position: absolute;
+  top: 11779px;
+  left: 813px;
+  font-style: italic;
+  color: #000000;
+  transform: rotate(52.76deg);
+}
+.stall3 {
+  font-weight: 700;
+  font-size: 72.5px;
+  position: absolute;
+  top: 11826px;
+  left: 735px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(52.76deg);
+}
+
+/* 4 билет */
+
+.ticketnumber4 {
+  font-weight: 400;
+  font-size: 22.78px;
+  position: absolute;
+  top: 11969px;
+  left: 891px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(18.1deg);
+}
+.time4 {
+  font-weight: 700;
+  font-size: 24.02px;
+  position: absolute;
+  top: 11998px;
+  left: 881px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(17.12deg);
+}
+.cost4 {
+  font-weight: 400;
+  font-size: 35.19px;
+  position: absolute;
+  top: 12103px;
+  left: 1176px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(18.07deg);
+}
+/* 5 билет */
+
+.ticketnumber5 {
+  font-weight: 400;
+  font-size: 27.01px;
+  position: absolute;
+  top: 12312px;
+  left: 1302px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(124.73deg);
+}
+.time5 {
+  font-weight: 700;
+  font-size: 28.48px;
+  position: absolute;
+  top: 12296px;
+  left: 1261px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(123.75deg);
+}
+.performance5 {
+  font-weight: 400;
+  font-size: 35.32px;
+  position: absolute;
+  top: 12274px;
+  left: 1196px;
+  font-style: italic;
+  color: #000000;
+  transform: rotate(124.57deg);
+}
+.stall5 {
+  font-weight: 700;
+  font-size: 74.78px;
+  position: absolute;
+  top: 12208px;
+  left: 1107px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(124.57deg);
+}
+.cost5 {
+  font-weight: 400;
+  font-size: 41.73px;
+  position: absolute;
+  top: 12577px;
+  left: 1051px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(124.7deg);
+}
+
+/* 6 билет */
+
+.ticketnumber6 {
+  font-weight: 400;
+  font-size: 22px;
+  position: absolute;
+  top: 12294px;
+  left: 654px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-12.87deg);
+}
+.time6 {
+  font-weight: 700;
+  font-size: 23.2px;
+  position: absolute;
+  top: 12322px;
+  left: 661px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-13.85deg);
+}
+.performance6 {
+  font-weight: 400;
+  font-size: 28.77px;
+  position: absolute;
+  top: 12353px;
+  left: 666px;
+  font-style: italic;
+  color: #000000;
+  transform: rotate(-13.02deg);
+}
+.stall6 {
+  font-weight: 700;
+  font-size: 60.92px;
+  position: absolute;
+  top: 12404px;
+  left: 682px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-13.02deg);
+}
+.cost6 {
+  font-weight: 400;
+  font-size: 30px;
+  position: absolute;
+  top: 12268px;
+  left: 967px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-12.89deg);
+}
+.row2 {
+  font-weight: 700;
+  font-size: 30px;
+  position: absolute;
+  top: 12372px;
+  left: 954px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(-13.7deg);
+}
+
+/* 7 билет */
+
+.ticketnumber7 {
+  font-weight: 400;
+  font-size: 30.99px;
+  position: absolute;
+  top: 12104px;
+  left: 355px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(15.79deg);
+}
+.time7 {
+  font-weight: 700;
+  font-size: 32.69px;
+  position: absolute;
+  top: 12148px;
+  left: 344px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(14.81deg);
+}
+.performance7 {
+  font-weight: 400;
+  font-size: 40.53px;
+  position: absolute;
+  top: 12206px;
+  left: 321px;
+  font-style: italic;
+  color: #000000;
+  transform: rotate(15.63deg);
+}
+.stall7 {
+  font-weight: 700;
+  font-size: 85.82px;
+  position: absolute;
+  top: 12309px;
+  left: 290px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(15.63deg);
+}
+/* 8 билет */
+
+.ticketnumber8 {
+  font-weight: 400;
+  font-size: 24.72px;
+  position: absolute;
+  top: 12219px;
+  left: 198px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(45.29deg);
+}
+.time8 {
+  font-weight: 700;
+  font-size: 26.07px;
+  position: absolute;
+  top: 12245px;
+  left: 173px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(44.31deg);
+}
+.performance8 {
+  font-weight: 400;
+  font-size: 32.33px;
+  position: absolute;
+  top: 12283px;
+  left: 132px;
+  font-style: italic;
+  color: #000000;
+  transform: rotate(45.14deg);
+}
+.stall8 {
+  font-weight: 700;
+  font-size: 68.45px;
+  position: absolute;
+  top: 12387px;
+  left: 46px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(45.14deg);
+}
+.cost8 {
+  font-weight: 400;
+  font-size: 33.71px;
+  position: absolute;
+  top: 12493px;
+  left: 363px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(45.27deg);
+}
+.row3 {
+  font-weight: 700;
+  font-size: 33.71px;
+  position: absolute;
+  top: 12585px;
+  left: 296px;
+  font-style: normal;
+  color: #000000;
+  transform: rotate(44.46deg);
 }
 
 /* подвал */
