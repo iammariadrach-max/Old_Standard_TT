@@ -10,7 +10,6 @@ body {
   margin: 0 auto;
   font-family: "Old Standard TT";
   position: relative;
-  display: flex;
 }
 
 body::after {
